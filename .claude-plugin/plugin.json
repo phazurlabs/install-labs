@@ -1,0 +1,8 @@
+{
+  "name": "install-labs",
+  "description": "Turn your AI agents and automations into installable plugins and packages — 12 skills, 10 commands across 3 phases (ASSESS → PACKAGE → SHIP). Covers every major framework (LangChain, CrewAI, AutoGen, Pydantic AI, LlamaIndex, n8n, Flowise, Dify, ComfyUI, browser agents) and every distribution target (MCP servers, Claude Code plugins, Custom GPTs, Docker, PyPI, npm, cloud deploy). Commands: /agent-guide, /agent-audit, /pick-target, /pick-framework, /gen-package, /gen-install, /pre-ship, /secure, /agent-roast, /glossary.",
+  "version": "2.0.0",
+  "author": {
+    "name": "phazurlabs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "install-labs",
+  "owner": {
+    "name": "phazurlabs"
+  },
+  "plugins": [
+    {
+      "name": "install-labs",
+      "source": "./",
+      "description": "Turn your AI agents and automations into installable plugins and packages — 12 skills, 10 commands across 3 phases (ASSESS → PACKAGE → SHIP). Covers every major agent framework and every distribution target: MCP servers, Claude Code plugins, Custom GPTs, Docker containers, PyPI packages, npm packages, and cloud deployments.",
+      "version": "2.0.0",
+      "author": {
+        "name": "phazurlabs"
+      }
+    }
+  ]
+}
